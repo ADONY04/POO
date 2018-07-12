@@ -1,11 +1,6 @@
 # POO
 Tarea
 
-Universidad tecnológica de honduras UTH   
-Asignatura Programación orientada a objetos   
-Catedrático  Ing. Arnol Rafael Gutiérrez   
-Alumno Adony Ariel Majano   
-Número de cuenta 201510050066 
 
 
 
